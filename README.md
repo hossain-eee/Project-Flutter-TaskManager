@@ -42,7 +42,7 @@ The Task Manager App is a powerful and efficient application designed to enhance
 
 ## Download
 
-- [Download APK](https://drive.google.com/file/d/1nCb9oCENvfiFMbSP5W8H8EpWQrMM7QZ4/view?usp=drive_link)
+[Download APK](https://drive.google.com/file/d/1nCb9oCENvfiFMbSP5W8H8EpWQrMM7QZ4/view?usp=drive_link)
 
 ## Technology Stack
 - **State Management:** Utilizes GetX for efficient state management.
