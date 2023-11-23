@@ -18,38 +18,52 @@ The Task Manager App is a powerful and efficient application designed to enhance
 
 ## Screenshots
 
-![App Image 1](insert_image_link_1_here)
-![App Image 2](insert_image_link_2_here)
-![App Image 3](insert_image_link_3_here)
+![apps_screen_shoot/1.png](apps_screen_shoot/1.png)
+![apps_screen_shoot/2.png](apps_screen_shoot/2.png)
+![apps_screen_shoot/3.png](apps_screen_shoot/3.png)
+![apps_screen_shoot/4.png](apps_screen_shoot/4.png)
+![apps_screen_shoot/5.png](apps_screen_shoot/5.png)
+![apps_screen_shoot/6.png](apps_screen_shoot/6.png)
+![apps_screen_shoot/7.png](apps_screen_shoot/7.png)
+![apps_screen_shoot/8.png](apps_screen_shoot/8.png)
+![apps_screen_shoot/9.png](apps_screen_shoot/9.png)
+![apps_screen_shoot/10.png](apps_screen_shoot/10.png)
+![apps_screen_shoot/11.png](apps_screen_shoot/11.png)
+![apps_screen_shoot/12.png](apps_screen_shoot/12.png)
+![apps_screen_shoot/13.png](apps_screen_shoot/13.png)
+![apps_screen_shoot/14.png](apps_screen_shoot/14.png)
+![apps_screen_shoot/15.png](apps_screen_shoot/15.png)
+![apps_screen_shoot/16.png](apps_screen_shoot/16.png)
+
 
 ## Demo Video
 
-[Watch Demo Video](insert_video_link_here)
+[Watch Demo Video](https://drive.google.com/file/d/17y-efapkeHCqsFWu4WD4WSM3O_kcKvFS/view?usp=drive_link)
 
 ## Download
 
 - [Download APK](insert_google_drive_link_here)
 
 ## Technology Stack
-State Management: Utilizes GetX for efficient state management.
+- **State Management:** Utilizes GetX for efficient state management.
 
-OTP Input: Incorporates pin_code_fields for a secure and user-friendly OTP input.
+- **OTP Input:** Incorporates pin_code_fields for a secure and user-friendly OTP input.
 
-Image Selection: Implements image_picker for easy image selection.
+- **Image Selection:** Implements image_picker for easy image selection.
 
-Network Requests: Uses http for making efficient network requests to the REST API.
+- **Network Requests:** Uses http for making efficient network requests to the REST API.
 
-Local Storage: Leverages shared_preferences for storing user login information.
+- **Local Storage:** Leverages shared_preferences for storing user login information.
 
-Image Caching: Utilizes cached_network_image for efficient caching of network images.
+- **Image Caching:** Utilizes cached_network_image for efficient caching of network images.
 
-Regular Expressions: Implements regexpattern for pattern matching and validation.
+- **Regular Expressions:** Implements regexpattern for pattern matching and validation.
 
 ## Packages Used
-pin_code_fields - ^8.0.1
-image_picker - ^1.0.1
-http - ^1.1.0
-shared_preferences - ^2.2.0
-cached_network_image - ^3.2.3
-regexpattern - ^2.5.0
-get - ^4.6.5
+- **pin_code_fields - ^8.0.1**
+- **image_picker - ^1.0.1**
+- **http - ^1.1.0**
+- **shared_preferences - ^2.2.0**
+- **cached_network_image - ^3.2.3**
+- **regexpattern - ^2.5.0**
+- **get - ^4.6.5**
